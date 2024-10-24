@@ -5,7 +5,7 @@
 [![!Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vairne)
 [![!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamtarf2@gmail.com)
 
-##### _Hey, I'm 25, born in Teresina, Brazil. Currently studying Computer Science at the Federal University of Piauí. I’m into morning runs, EDM, and I love playing Warframe. So, do you mix your runs with some energizing EDM tracks_
+##### _Hey, I'm 25, born in Teresina, Brazil. Currently studying Computer Science at the Federal University of Piauí. I’m into morning runs, EDM, and I love playing Warframe. So, do you mix your runs with some energizing EDM tracks?_
 
 ##### _My passion for technology started early and led me to pursue Electrical Engineering. Driven by what I learned about programming and technology in engineering, I'm transitioning to Computer Science at the same university. Sounds like quite the journey!_ 🌟
 
