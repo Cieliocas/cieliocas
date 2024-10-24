@@ -1,13 +1,13 @@
-# Hi there 👋 I'm Franciélio.
+# Hi there 👋 I'm _Franciélio_.
 ### Hey! If you need something, give me a shout. Easy-peasy, right? 😉
 [![!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cieliocas/)
 [![!Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cieliocas/)
 [![!Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vairne)
 [![!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamtarf2@gmail.com)
 
-##### Hey, I'm 25, born in Teresina, Brazil. Currently studying Computer Science at the Federal University of Piauí. I’m into morning runs, EDM, and I love playing Warframe. So, do you mix your runs with some energizing EDM tracks
+##### _Hey, I'm 25, born in Teresina, Brazil. Currently studying Computer Science at the Federal University of Piauí. I’m into morning runs, EDM, and I love playing Warframe. So, do you mix your runs with some energizing EDM tracks_
 
-##### My passion for technology started early and led me to pursue Electrical Engineering. Driven by what I learned about programming and technology in engineering, I'm transitioning to Computer Science at the same university. Sounds like quite the journey! 🌟
+##### _My passion for technology started early and led me to pursue Electrical Engineering. Driven by what I learned about programming and technology in engineering, I'm transitioning to Computer Science at the same university. Sounds like quite the journey!_ 🌟
 
 
 ## Tools and tech I utilize. 🔍
