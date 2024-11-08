@@ -34,5 +34,5 @@
       <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-_See ya!!!_
+_See ya!!_
 ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b719c0f5-6bbf-4aea-b53b-a94da146d584/darsino-f7c67902-588e-4990-beb4-4dc5dcdcfd51.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3MTljMGY1LTZiYmYtNGFlYS1iNTNiLWE5NGRhMTQ2ZDU4NFwvZGFyc2luby1mN2M2NzkwMi01ODhlLTQ5OTAtYmViNC00ZGM1ZGNkY2ZkNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HWEPX_z46p3KgWZpmK8ed-4bv1RuhnnJZIdNUhwqbVA)
