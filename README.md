@@ -1,38 +1,54 @@
-# Hi there 👋 I'm _Franciélio_.
-### Hey! If you need something, give me a shout. Easy-peasy, right? 😉
-[![!Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cieliocas/)
-[![!Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cieliocas/)
-[![!Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Vairne)
-[![!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamtarf2@gmail.com)
+# 👋 Olá, eu sou o Franciélio  
 
-##### _Hey, I'm 26, born in Teresina, Brazil. Currently studying Computer Science at the Federal University of Piauí. I’m into morning runs, EDM, and I love playing Warframe. So, do you mix your runs with some energizing EDM tracks?_
+🎓 Estudante de **Ciência da Computação** na UFPI.  
+🚀 Atualmente participo de **projetos de iniciação científica** em **HPC (High Performance Computing)**, trabalhando com **clusters, Proxmox e SLURM**.  
+☁️ Tenho interesse crescente em **DevOps, Cloud e Infraestrutura**, mas sigo apaixonado por **desenvolvimento web** (Front-end e Back-end).  
+📍 De Teresina – PI, Brasil.  
 
-##### _My passion for technology started early and led me to pursue Electrical Engineering. Driven by what I learned about programming and technology in engineering, I'm transitioning to Computer Science at the same university. Sounds like quite the journey!_ 🌟
+---
 
+## 🚀 Explorando atualmente
+- **DevOps e Cloud**: Linux, Docker, Kubernetes, CI/CD, automação e monitoramento.  
+- **HPC**: configuração e gerenciamento de clusters com SLURM.  
+- **Desenvolvimento Web**: Angular + Node.js (NestJS), Python (Flask/Django).  
 
-## Tools and tech I utilize. 🔍
-<div style="display: inline_block"><br/>
-    <h5>Front-end</h5>
-    <img align="center" alt="html:5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css:3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    <img align="center" alt="saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
+---
 
+## 🛠️ Tecnologias e ferramentas  
 
 <div style="display: inline_block"><br/>
-    <h5>Back-end</h5>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img align="center" alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <h5>🌐 Front-end</h5>
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
 
-_See ya!!!_
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b719c0f5-6bbf-4aea-b53b-a94da146d584/darsino-f7c67902-588e-4990-beb4-4dc5dcdcfd51.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3MTljMGY1LTZiYmYtNGFlYS1iNTNiLWE5NGRhMTQ2ZDU4NFwvZGFyc2luby1mN2M2NzkwMi01ODhlLTQ5OTAtYmViNC00ZGM1ZGNkY2ZkNTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HWEPX_z46p3KgWZpmK8ed-4bv1RuhnnJZIdNUhwqbVA)
+<div style="display: inline_block"><br/>
+  <h5>⚙️ Back-end</h5>
+  <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
+  <h5>🔧 DevOps / Infra</h5>
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img align="center" alt="slurm" src="https://img.shields.io/badge/Slurm-000000?style=for-the-badge&logo=slurm&logoColor=white" />
+  <img align="center" alt="proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+</div>  
+
+---
+
+## 🌍 Conecte-se comigo  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cieliocas/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francielioevangelista@hotmail.com)  
+
+---
+
+💡 _Sempre aprendendo e construindo. Misturando **Dev**, **Ops** e pesquisa científica._  
