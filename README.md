@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Explorando atualmente
-- **DevOps e Cloud**: Linux, Docker, Kubernetes, CI/CD, automação e monitoramento.  
+- **DevOps e Cloud**: Golang, Linux, Docker, Kubernetes, CI/CD, automação e monitoramento.  
 - **HPC**: configuração e gerenciamento de clusters com SLURM.  
 - **Desenvolvimento Web**: Angular + Node.js (NestJS), Python (Flask/Django).  
 
