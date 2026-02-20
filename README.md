@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Franciélio Castro
+
+<p align="center">
+  <img width="400" alt="ChatGPT Image 20 de fev  de 2026, 18_05_41 (1)" src="https://github.com/user-attachments/assets/1462f8b3-4b3b-4ae4-9cf1-f73131ceecfb" />
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/bc/ef/9e/bcef9e69e0c689ee189d76842d476bc9.gif" width="200"/>
